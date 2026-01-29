@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Priyanshu Agarwal
-- 👀 I’m interested in Big Data Engineering.
-- 🌱 I’m currently learning Big Data Engineering.
-- 💞️ I’m looking to collaborate on Data Engineering.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collaborate on Data Science.
 - 📫 How to reach me on 'www.linkedin.com/in/priyanshuagarwal2910'
 - 😄 Pronouns: he/him.
 
